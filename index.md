@@ -38,6 +38,10 @@ https://envisionlahaina.com/
 
 https://github.com/orgs/envision-lahaina/projects/1
 
+## M2 Issues
+
+https://github.com/orgs/envision-lahaina/projects/2
+
 ## Overview
 
 We want to create a web portal that facilitates the civic engagement around how to rebuild Lahaina, Maui, including surveys, forums, sharing design concepts with visual and data models for economic, environmental, etc. analysis.
