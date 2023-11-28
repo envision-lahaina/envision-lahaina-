@@ -42,6 +42,10 @@ https://github.com/orgs/envision-lahaina/projects/1
 
 https://github.com/orgs/envision-lahaina/projects/2
 
+## M3 Issues
+
+https://github.com/orgs/envision-lahaina/projects/5
+
 ## Overview
 
 We want to create a web portal that facilitates the civic engagement around how to rebuild Lahaina, Maui, including surveys, forums, sharing design concepts with visual and data models for economic, environmental, etc. analysis.
@@ -93,20 +97,27 @@ Generative AI powered by Dall-E3, user give a prompt regarding their design or t
 
 Embeded Gis Map with data visualization and 360 VR of scenes in Lahaina.
 
+
 ![](doc/Embedded-VR.png)
+
+
+#### Map-Modeling
+
+Collaborative platform for user to add design ideas by searching or pinning an specific location on the map.
+
+
+![](doc/map-modeling.png)
 
 #### External
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![](doc/External.png)
 
-#### Data (Coming Soon)
+### Developer Guide
 
-Data Dashboard including tools for deep analysis and visualization powered by AI and Python Libraries
+Replace all 'YOUR-KEY' field with your own api key.
 
-![](doc/Data-Page.png)
+- Meteor npm install(Install needed packages for the first time)
 
-#### Moderated Contents (Coming Soon)
+- Meteor npm run start (To start the app)
 
-Image and Contents Uploaded will be automatically moderated through AI and External Apis
