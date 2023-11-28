@@ -110,7 +110,7 @@ Collaborative platform for user to add design ideas by searching or pinning an s
 
 #### External
 
-Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
+Exteral Resources for user to learn more about Lahaina and access useful resources.
 
 
 ### Developer Guide
