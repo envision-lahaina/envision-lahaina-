@@ -95,7 +95,15 @@ Embeded Gis Map with data visualization and 360 VR of scenes in Lahaina.
 
 #### External
 
+![](doc/External-Page.png)
+
 Exteral Resources for user to learn more about Lahaina and access useful resources.
+
+#### Text Moderation
+
+24/7 Admin free text moderation on all text-related contents on website.
+
+![](doc/Moderation.png)
 
 ## Additional Feature
 
