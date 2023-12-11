@@ -109,7 +109,6 @@ Exteral Resources for user to learn more about Lahaina and access useful resourc
 
 - Sign-in/up/out
 - Add/Edit/Delete Profile
-- Text moderation 24/7 hours, admin-free
 
 ### Developer Guide
 
