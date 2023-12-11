@@ -1,6 +1,7 @@
 ## Outline
 - Survey
 - Forum
+- Collaborative Platform
 - Generative AI (Image AI)
 - GIS and Mapping Features
 
@@ -8,18 +9,9 @@
 1. Mapping software (GIS)
 2. Map Modeling tools, art sketching for 2d concepts (AI image/model
    generation for prototyping buildings, landscape)
-4. Community Engagement (discussion forums linked to models, surveys,
-   https://pol.is, http://www.hierr.online )
-5. Economic and Environmental Simulation/Analysis Tools
+4. Community Engagement (discussion forums linked to models, surveys)
+5. Economic and Environmental Analysis Tools
 6. Online and in-person shared digital spaces
-
-## Basic Flow
-1. Users enter website (or in-person room) to view model
-2. User engages with Surveys, adding to sentiment, values,
-3. User explores virtual Lahainas
-4. User provides feedback comments, engages with discussions
-5. Community immersive events to share scenarios
-6. Lahaina economy and housing reopens before 2030
 
 ## Contract link
 Google Doc: https://docs.google.com/document/d/1OkHVLfvYzdDmIIxS3qWZuMIPUi7U8FvqCDTSmxmRDzE/edit?usp=sharing
@@ -43,7 +35,7 @@ https://github.com/orgs/envision-lahaina/projects/2
 
 https://github.com/orgs/envision-lahaina/projects/5
 
-## Overview
+## Page Overview
 
 We want to create a web portal that facilitates the civic engagement around how to rebuild Lahaina, Maui, including surveys, forums, sharing design concepts with visual and data models for economic, environmental, etc. analysis.
 
@@ -51,13 +43,13 @@ We want to create a web portal that facilitates the civic engagement around how 
 
 The landing page for any new visitors or user who have not logged in yet. Vistior have options to sign up or sign in.
 
-![](doc/Landing-Fixed.png)
+![](doc/Landing-Page-2.png)
 
 ## Home Page
 
 The Home Page is the first page that users will see when they Login, no other feature will be accessible unless user is signed in
 
-![](doc/Home-fixed.png)
+![](doc/Landing-Page.png)
 
 ## Civic Engagement
 
@@ -82,6 +74,11 @@ User have an option to add, edit or delete their profile. This is a page demonst
 
 ### Visualize Toolset
 
+#### Map-Modeling
+
+Collaborative Platform allowing user to add their design concept. Ping or search any location to view other or add your own design concepts!
+
+![](doc/Model-Page.png)
 
 #### Generative-AI
 
@@ -94,21 +91,17 @@ Generative AI powered by Dall-E3, user give a prompt regarding their design or t
 
 Embeded Gis Map with data visualization and 360 VR of scenes in Lahaina.
 
-
-![](doc/Embedded-VR.png)
-
-
-#### Map-Modeling
-
-Collaborative platform for user to add design ideas by searching or pinning an specific location on the map.
-
-
-![](doc/map-modeling.png)
+![](doc/VR-Page.png)
 
 #### External
 
 Exteral Resources for user to learn more about Lahaina and access useful resources.
 
+## Additional Feature
+
+- Sign-in/up/out
+- Add/Edit/Delete Profile
+- Text moderation 24/7 hours, admin-free
 
 ### Developer Guide
 
